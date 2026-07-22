@@ -20,10 +20,10 @@ Hello there! This repository serves as an index of my public work.
 
 ### Web Application Development (CAS CS392)
 *Assignments organized as separate repositories.*
-- **Personal Portfolio Website** (MP1)[mp-5](https://github.com/ariellemaravilla/mp-5)  
-- **Cocktail Explorer** [mp-4](https://github.com/ariellemaravilla/mp-4)  
-- **Bible Verse Explorer** [mp-2](https://github.com/ariellemaravilla/mp-2)  
-- **URL Shortener** [mp-1](https://github.com/ariellemaravilla/mp-1)
+- **URL Shortener** (MP1)[mp-5](https://github.com/ariellemaravilla/mp-5)  
+- **Bible Verse Explorer** [mp-4](https://github.com/ariellemaravilla/mp-4)  
+- **Cocktail Explorer** [mp-2](https://github.com/ariellemaravilla/mp-2)  
+- **Personal Portfolio Website** [mp-1](https://github.com/ariellemaravilla/mp-1)
 
 
 ---
