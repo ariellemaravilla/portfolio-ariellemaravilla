@@ -11,10 +11,10 @@ Hello there! This repository serves as an index of my public work.
 
 ### Course Repositories
 - Operating Systems: [ec440-lab2](https://github.com/ariellemaravilla/ec440-lab2) 
-- Computer Organization: [EC413_Labs_AMMT](https://github.com/ariellemaravilla/EC413_Labs_AMMT)  
-- Introduction to Logic and Design: [EC311_AM](https://github.com/ariellemaravilla/EC311_AM)   
+- Computer Organization: [ec413-labs-ariellemirclea](https://github.com/ariellemaravilla/ec413-labs-ariellemirclea)
+- Introduction to Logic and Design: [ec311-finalproject](https://github.com/ariellemaravilla/ec311-finalproject)
 
-### Web Application Development (CAS CS392) *Assignments organized as separate repositories.*
+#### Web Application Development (CAS CS392) *Assignments organized as separate repositories.*
 - [mp-5](https://github.com/ariellemaravilla/mp-5)  
 - [mp-4](https://github.com/ariellemaravilla/mp-4)  
 - [mp-2](https://github.com/ariellemaravilla/mp-2)  
