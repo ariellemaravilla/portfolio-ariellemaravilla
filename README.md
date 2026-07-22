@@ -10,7 +10,8 @@ Hello there! This repository serves as an index of my public work.
 
 ### Data Science Projects
 - Data Visualization X-Lab: *Repository is private.*
-- Introduction to Machine Learning and AI: **Computer Vision DJ Controller** *(Team Repository)*  [ds340-final-project](https://github.com/asiannasekai/ds-340-final-project)
+- Introduction to Machine Learning and AI:
+  - **Computer Vision DJ Controller** *(Team Repository)*  [ds340-final-project](https://github.com/asiannasekai/ds-340-final-project)
 
 ### Computer Engineering
 - Operating Systems: [ec440-lab2](https://github.com/ariellemaravilla/ec440-lab2) 
