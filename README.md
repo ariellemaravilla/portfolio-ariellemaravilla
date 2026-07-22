@@ -8,13 +8,17 @@ Hello there! This repository serves as an index of my public work.
 ---
 ## 📚 Coursework
 
+### Data Science Projects
+- Data Visualization X-Lab: *Repository is private.*
+- Introduction to Machine Learning and AI: **Computer Vision DJ Controller** *(Team Repository)*  [ds340-final-project](https://github.com/asiannasekai/ds-340-final-project)
 
-### Course Repositories
+### Computer Engineering
 - Operating Systems: [ec440-lab2](https://github.com/ariellemaravilla/ec440-lab2) 
 - Computer Organization: [ec413-labs-ariellemirclea](https://github.com/ariellemaravilla/ec413-labs-ariellemirclea)
 - Introduction to Logic and Design: [ec311-finalproject](https://github.com/ariellemaravilla/ec311-finalproject)
 
-#### Web Application Development (CAS CS392) *Assignments organized as separate repositories.*
+### Web Application Development (CAS CS392)
+*Assignments organized as separate repositories.*
 - [mp-5](https://github.com/ariellemaravilla/mp-5)  
 - [mp-4](https://github.com/ariellemaravilla/mp-4)  
 - [mp-2](https://github.com/ariellemaravilla/mp-2)  
