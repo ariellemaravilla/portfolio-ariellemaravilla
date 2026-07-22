@@ -20,6 +20,7 @@ Hello there! This repository serves as an index of my public work.
 
 ### Web Application Development (CAS CS392)
 *Assignments organized as separate repositories.*
+- **Harry Potter Character Guessing Game 🪄** *(Team Project)* [cs392-finalproject](https://github.com/sojess041/Final-Project)
 - **URL Shortener** [mp-5](https://github.com/ariellemaravilla/mp-5)  
 - **Bible Verse Explorer** [mp-4](https://github.com/ariellemaravilla/mp-4)  
 - **Cocktail Explorer** [mp-2](https://github.com/ariellemaravilla/mp-2)  
